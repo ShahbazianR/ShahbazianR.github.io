@@ -1,23 +1,16 @@
+
 ---
 title: 'Projects'
-date: 2024-05-19
+date: 2023-10-24
 type: landing
 
 design:
-  # Section spacing
   spacing: '5rem'
-
-# Page sections
-sections:
-  - block: collection
-    content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
-      filters:
-        folders:
-          - project
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 3
 ---
+
+## Selected Projects
+
+- **2024**: Future Artificial Intelligence Research (FAIR), Spoke 9 - Green-Aware AI. Research focused on explainable AI with green-aware models, University of Calabria.
+- **2023**: Solutions for Industrial Logistics for Organized Distribution (SOLIDO), DIMEG, University of Calabria.
+- **2022 – 2023**: Machine Learning and Data Imputation in Industry Applications, Ministry of Economic Development (MISE), Italy.
+- **2020**: Mobile E-Health Application for Adolescent Suicide Prevention, BC Children's Hospital, British Columbia, Canada.
