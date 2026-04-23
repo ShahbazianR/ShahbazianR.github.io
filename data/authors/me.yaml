@@ -1,5 +1,5 @@
 schema: hugoblox/author/v1
-slug: admin
+slug: me
 is_owner: true
 name:
   display: Reza Shahbazian
