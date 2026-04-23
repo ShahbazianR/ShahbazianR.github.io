@@ -210,6 +210,16 @@ p.bio {
   margin-top: 5px;
 }
 
+.view-all-link {
+    color: var(--primary-color);
+    transition: transform 0.2s, color 0.2s;
+}
+.view-all-link:hover {
+    color: var(--accent-color);
+    text-decoration: none;
+    transform: translateX(5px);
+}
+
 /* Responsive Design */
 @media (max-width: 800px) {
   .container {
